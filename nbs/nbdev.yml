@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "00_dbdev"
+  site-url: "https://nitesh.github.io/00_dbdev"
+  description: "nbdev starting"
+  repo-branch: main
+  repo-url: "https://github.com/nitesh/00_dbdev"
